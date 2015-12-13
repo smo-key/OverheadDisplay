@@ -1,0 +1,218 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows", "Windows", "{24AA19A7-8934-49AC-B561-D8D03A283CC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Overheads", "Overheads", "{A2C36752-0767-49CC-9DA5-98A6E15862E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Joysticks", "Joysticks", "{70C6EEF6-D27B-40F9-BF24-79A1421D57EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sensors", "Sensors", "{D5156253-ABEA-4C2E-93B1-ECCB040147CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{D3CD10BF-10AB-47C1-939F-08833F47CDB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{32078C9D-638F-48BC-84D8-A2A2A03FD269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Sided Keyboard Joystick", "Overheads\Joysticks\Two-Sided Keyboard Joystick\Two-Sided Keyboard Joystick.csproj", "{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC} = {7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverheadTester", "Tests\OverheadTester\OverheadTester.csproj", "{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84BBBAB9-3F30-4786-8491-F99106F75B89} = {84BBBAB9-3F30-4786-8491-F99106F75B89}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touch Joystick Demo", "Tests\Touch Joystick Demo\Touch Joystick Demo.csproj", "{84BBBAB9-3F30-4786-8491-F99106F75B89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC} = {7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows 8 Touch Joystick", "Tests\Windows 8 Touch Joystick\Windows 8 Touch Joystick.csproj", "{00BABD12-2B60-4901-9189-8AB93A547EA1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC} = {7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKH.MindSqualls", "Libraries\NKH.MindSqualls\NKH.MindSqualls.csproj", "{9973018E-FC09-4549-A484-0B702ADE1EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectLib", "Libraries\ConnectLib\ConnectLib.csproj", "{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Android", "Android", "{036B242D-8CD2-4AB6-AE44-78B15F56A099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverheadDisplay", "targeting\Windows\OverheadDisplay\OverheadDisplay.csproj", "{6E03384B-5208-4F1D-B80B-5846D758E816}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC} = {7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXTLib2", "Libraries\NXTLib2\NXTLib2.csproj", "{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothLibTester2", "Tests\BluetoothLibTester2\BluetoothLibTester2.csproj", "{F78CBF08-DE62-4BE8-AA93-742593644FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartLib", "Libraries\Charting\ChartLib.csproj", "{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverheadDisplayDLL", "targeting\Windows\OverheadDisplayDLL\OverheadDisplayDLL.csproj", "{9D576778-11B5-4B57-893C-648D6E51AC29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NXT", "NXT", "{825D2632-20B2-4328-9804-CFEB4714ABA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXTConnection", "Connections\NXTConnection\NXTConnection.csproj", "{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 13
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arthurprojects.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Overheads\\Joysticks\\Two-Sided\u0020Keyboard\u0020Joystick\\Two-Sided\u0020Keyboard\u0020Joystick.csproj
+		SccProjectTopLevelParentUniqueName1 = OverheadDisplay.sln
+		SccProjectName1 = Overheads/Joysticks/Two-Sided\u0020Keyboard\u0020Joystick
+		SccLocalPath1 = Overheads\\Joysticks\\Two-Sided\u0020Keyboard\u0020Joystick
+		SccProjectUniqueName2 = Tests\\OverheadTester\\OverheadTester.csproj
+		SccProjectTopLevelParentUniqueName2 = OverheadDisplay.sln
+		SccProjectName2 = Tests/OverheadTester
+		SccLocalPath2 = Tests\\OverheadTester
+		SccProjectUniqueName3 = Tests\\Touch\u0020Joystick\u0020Demo\\Touch\u0020Joystick\u0020Demo.csproj
+		SccProjectTopLevelParentUniqueName3 = OverheadDisplay.sln
+		SccProjectName3 = Tests/Touch\u0020Joystick\u0020Demo
+		SccLocalPath3 = Tests\\Touch\u0020Joystick\u0020Demo
+		SccProjectUniqueName4 = Tests\\Windows\u00208\u0020Touch\u0020Joystick\\Windows\u00208\u0020Touch\u0020Joystick.csproj
+		SccProjectTopLevelParentUniqueName4 = OverheadDisplay.sln
+		SccProjectName4 = Tests/Windows\u00208\u0020Touch\u0020Joystick
+		SccLocalPath4 = Tests\\Windows\u00208\u0020Touch\u0020Joystick
+		SccProjectUniqueName5 = Libraries\\NKH.MindSqualls\\NKH.MindSqualls.csproj
+		SccProjectTopLevelParentUniqueName5 = OverheadDisplay.sln
+		SccProjectName5 = Libraries/NKH.MindSqualls
+		SccLocalPath5 = Libraries\\NKH.MindSqualls
+		SccProjectUniqueName6 = Libraries\\ConnectLib\\ConnectLib.csproj
+		SccProjectTopLevelParentUniqueName6 = OverheadDisplay.sln
+		SccProjectName6 = Libraries/ConnectLib
+		SccLocalPath6 = Libraries\\ConnectLib
+		SccProjectUniqueName7 = targeting\\Windows\\OverheadDisplay\\OverheadDisplay.csproj
+		SccProjectTopLevelParentUniqueName7 = OverheadDisplay.sln
+		SccProjectName7 = targeting/Windows/OverheadDisplay
+		SccLocalPath7 = targeting\\Windows\\OverheadDisplay
+		SccProjectUniqueName8 = Libraries\\NXTLib2\\NXTLib2.csproj
+		SccProjectTopLevelParentUniqueName8 = OverheadDisplay.sln
+		SccProjectName8 = Libraries/NXTLib2
+		SccLocalPath8 = Libraries\\NXTLib2
+		SccProjectUniqueName9 = Tests\\BluetoothLibTester2\\BluetoothLibTester2.csproj
+		SccProjectTopLevelParentUniqueName9 = OverheadDisplay.sln
+		SccProjectName9 = Tests/BluetoothLibTester2
+		SccLocalPath9 = Tests\\BluetoothLibTester2
+		SccProjectUniqueName10 = Libraries\\Charting\\ChartLib.csproj
+		SccProjectTopLevelParentUniqueName10 = OverheadDisplay.sln
+		SccProjectName10 = Libraries/Charting
+		SccLocalPath10 = Libraries\\Charting
+		SccProjectUniqueName11 = targeting\\Windows\\OverheadDisplayDLL\\OverheadDisplayDLL.csproj
+		SccProjectTopLevelParentUniqueName11 = OverheadDisplay.sln
+		SccProjectName11 = targeting/Windows/OverheadDisplayDLL
+		SccLocalPath11 = targeting\\Windows\\OverheadDisplayDLL
+		SccProjectUniqueName12 = Connections\\NXTConnection\\NXTConnection.csproj
+		SccProjectTopLevelParentUniqueName12 = OverheadDisplay.sln
+		SccProjectName12 = Connections/NXTConnection
+		SccLocalPath12 = Connections\\NXTConnection
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{84BBBAB9-3F30-4786-8491-F99106F75B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BBBAB9-3F30-4786-8491-F99106F75B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BBBAB9-3F30-4786-8491-F99106F75B89}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{84BBBAB9-3F30-4786-8491-F99106F75B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BBBAB9-3F30-4786-8491-F99106F75B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BBBAB9-3F30-4786-8491-F99106F75B89}.Release|x86.ActiveCfg = Release|Any CPU
+		{00BABD12-2B60-4901-9189-8AB93A547EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BABD12-2B60-4901-9189-8AB93A547EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BABD12-2B60-4901-9189-8AB93A547EA1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{00BABD12-2B60-4901-9189-8AB93A547EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BABD12-2B60-4901-9189-8AB93A547EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BABD12-2B60-4901-9189-8AB93A547EA1}.Release|x86.ActiveCfg = Release|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Release|x86.ActiveCfg = Release|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E03384B-5208-4F1D-B80B-5846D758E816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E03384B-5208-4F1D-B80B-5846D758E816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E03384B-5208-4F1D-B80B-5846D758E816}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E03384B-5208-4F1D-B80B-5846D758E816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E03384B-5208-4F1D-B80B-5846D758E816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E03384B-5208-4F1D-B80B-5846D758E816}.Release|x86.ActiveCfg = Release|Any CPU
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC}.Release|x86.ActiveCfg = Release|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9}.Release|x86.ActiveCfg = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|x86.ActiveCfg = Debug|x86
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|x86.Build.0 = Debug|x86
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|x86.ActiveCfg = Release|x86
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|x86.Build.0 = Release|x86
+		{9D576778-11B5-4B57-893C-648D6E51AC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D576778-11B5-4B57-893C-648D6E51AC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D576778-11B5-4B57-893C-648D6E51AC29}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9D576778-11B5-4B57-893C-648D6E51AC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D576778-11B5-4B57-893C-648D6E51AC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D576778-11B5-4B57-893C-648D6E51AC29}.Release|x86.ActiveCfg = Release|Any CPU
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E03384B-5208-4F1D-B80B-5846D758E816} = {24AA19A7-8934-49AC-B561-D8D03A283CC9}
+		{9D576778-11B5-4B57-893C-648D6E51AC29} = {24AA19A7-8934-49AC-B561-D8D03A283CC9}
+		{70C6EEF6-D27B-40F9-BF24-79A1421D57EE} = {A2C36752-0767-49CC-9DA5-98A6E15862E1}
+		{D5156253-ABEA-4C2E-93B1-ECCB040147CA} = {A2C36752-0767-49CC-9DA5-98A6E15862E1}
+		{EFEBBA6F-DC5E-4BD2-BD0B-4EA4CD27497E} = {70C6EEF6-D27B-40F9-BF24-79A1421D57EE}
+		{825D2632-20B2-4328-9804-CFEB4714ABA1} = {D3CD10BF-10AB-47C1-939F-08833F47CDB9}
+		{7BF04AD2-87F7-4929-9D11-86F5DD33BBE4} = {D3CD10BF-10AB-47C1-939F-08833F47CDB9}
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7} = {D3CD10BF-10AB-47C1-939F-08833F47CDB9}
+		{EF0C17B4-57BB-40D0-97DC-01A8CFEF06AF} = {32078C9D-638F-48BC-84D8-A2A2A03FD269}
+		{84BBBAB9-3F30-4786-8491-F99106F75B89} = {32078C9D-638F-48BC-84D8-A2A2A03FD269}
+		{00BABD12-2B60-4901-9189-8AB93A547EA1} = {32078C9D-638F-48BC-84D8-A2A2A03FD269}
+		{F78CBF08-DE62-4BE8-AA93-742593644FC9} = {32078C9D-638F-48BC-84D8-A2A2A03FD269}
+		{7E2A12C1-3809-4EC0-B77A-2B49D6219BCC} = {825D2632-20B2-4328-9804-CFEB4714ABA1}
+		{9973018E-FC09-4549-A484-0B702ADE1EE9} = {825D2632-20B2-4328-9804-CFEB4714ABA1}
+		{1CB90C92-3353-42EF-B3A0-A60571FAC6BF} = {825D2632-20B2-4328-9804-CFEB4714ABA1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,43 @@
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csprojResolveAssemblyReference.cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.TwoSide_Keyboard.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.Properties.Resources.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csproj.GenerateResource.Cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\bin\Overheads\Two-Sided Keyboard Joystick.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\bin\Overheads\Two-Sided Keyboard Joystick.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\bin\Debug\Overheads\Two-Sided Keyboard Joystick.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\bin\Debug\Overheads\Two-Sided Keyboard Joystick.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csprojResolveAssemblyReference.cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\OverheadOptions.OverheadOptions.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.TwoSide_Keyboard.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.Properties.Resources.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csproj.GenerateResource.Cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\bin\Debug\Overheads\Two-Sided Keyboard Joystick.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\bin\Debug\Overheads\Two-Sided Keyboard Joystick.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\OverheadOptions.OverheadOptions.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.TwoSide_Keyboard.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.Properties.Resources.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csproj.GenerateResource.Cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.pdb
+E:\Projects\source\Overhead Display\bin\Debug\Overheads\Two-Sided Keyboard Joystick.dll
+E:\Projects\source\Overhead Display\bin\Debug\Overheads\Two-Sided Keyboard Joystick.pdb
+E:\Projects\source\Overhead Display\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.TwoSide_Keyboard.resources
+E:\Projects\source\Overhead Display\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.TwoSided_Keyboard_Properties.resources
+E:\Projects\source\Overhead Display\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.Properties.Resources.resources
+E:\Projects\source\Overhead Display\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csproj.GenerateResource.Cache
+E:\Projects\source\Overhead Display\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.dll
+E:\Projects\source\Overhead Display\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.pdb
+C:\source\OverheadDisplay\bin\Debug\Overheads\Two-Sided Keyboard Joystick.dll
+C:\source\OverheadDisplay\bin\Debug\Overheads\Two-Sided Keyboard Joystick.pdb
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.EventsForm.resources
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.OverheadForm.resources
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.PropertiesForm.resources
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Controls.Joysticks.Properties.Resources.resources
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.csproj.GenerateResource.Cache
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.dll
+C:\source\OverheadDisplay\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.pdb

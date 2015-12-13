@@ -1,0 +1,25 @@
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\BluetoothLibTester.exe
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\BluetoothLibTester.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\NKH.MindSqualls.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\NXT Library.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\NKH.MindSqualls.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\NKH.MindSqualls.xml
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\bin\Debug\NXT Library.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csprojResolveAssemblyReference.cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Tester.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Properties.Resources.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csproj.GenerateResource.Cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.exe
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Tester.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Properties.Resources.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csproj.GenerateResource.Cache
+E:\Projects\source\Overhead Display\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csprojResolveAssemblyReference.cache
+E:\Projects\source\Overhead Display\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Tester.resources
+E:\Projects\source\Overhead Display\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Properties.Resources.resources
+E:\Projects\source\Overhead Display\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csproj.GenerateResource.Cache
+C:\source\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csprojResolveAssemblyReference.cache
+C:\source\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Tester.resources
+C:\source\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.Properties.Resources.resources
+C:\source\OverheadDisplay\Tests\BluetoothLibTester\obj\Debug\BluetoothLibTester.csproj.GenerateResource.Cache

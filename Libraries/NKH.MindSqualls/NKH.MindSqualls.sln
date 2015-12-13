@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKH.MindSqualls", "NKH.MindSqualls.csproj", "{9973018E-FC09-4549-A484-0B702ADE1EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUsbWrapper", "WinUsbWrapper\WinUsbWrapper.csproj", "{40C6E946-D5AC-43B8-AEDE-D896E9CBB3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluetooth Test", "..\..\..\..\..\..\Dropbox\Projects\NXT Drawing\Bluetooth Test\Bluetooth Test.csproj", "{DB6A5D95-128C-4796-83ED-B26913F3888D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9973018E-FC09-4549-A484-0B702ADE1EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C6E946-D5AC-43B8-AEDE-D896E9CBB3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C6E946-D5AC-43B8-AEDE-D896E9CBB3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C6E946-D5AC-43B8-AEDE-D896E9CBB3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C6E946-D5AC-43B8-AEDE-D896E9CBB3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6A5D95-128C-4796-83ED-B26913F3888D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6A5D95-128C-4796-83ED-B26913F3888D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6A5D95-128C-4796-83ED-B26913F3888D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6A5D95-128C-4796-83ED-B26913F3888D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

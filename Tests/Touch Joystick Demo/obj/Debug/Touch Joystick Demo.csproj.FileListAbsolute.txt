@@ -1,0 +1,31 @@
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.pdb
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csprojResolveAssemblyReference.cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.Properties.Resources.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.TouchJoystickDemo.resources
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csproj.GenerateResource.Cache
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.dll
+C:\Users\Bill Bek\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.Properties.Resources.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.TouchJoystickDemo.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csproj.GenerateResource.Cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csprojResolveAssemblyReference.cache
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.dll
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.pdb
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.Properties.Resources.resources
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.TouchJoystickDemo.resources
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csproj.GenerateResource.Cache
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.dll
+C:\source\OverheadDisplay\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.pdb
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.dll
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\bin\Debug\Touch Joystick Demo.pdb
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csprojResolveAssemblyReference.cache
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.Properties.Resources.resources
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\obj\Debug\Touch_Joystick_Demo.TouchJoystickDemo.resources
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.csproj.GenerateResource.Cache
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.dll
+E:\Projects\source\Overhead Display\Tests\Touch Joystick Demo\obj\Debug\Touch Joystick Demo.pdb

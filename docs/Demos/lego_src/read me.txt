@@ -1,0 +1,2 @@
+Before running Lego RCX sample, please, copy GhostAPI DLLs into application's
+directory. Lego IR tower's driver also needs to be installed.

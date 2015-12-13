@@ -1,0 +1,22 @@
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\bin\Debug\Windows 8 Touch Joystick.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\bin\Debug\Windows 8 Touch Joystick.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Win8_TouchJoystick.Properties.Resources.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Win8_TouchJoystick.Win8TouchJoystick.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.csproj.GenerateResource.Cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.pdb
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\bin\Debug\Windows 8 Touch Joystick.dll
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\bin\Debug\Windows 8 Touch Joystick.pdb
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Win8_TouchJoystick.Properties.Resources.resources
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Win8_TouchJoystick.Win8TouchJoystick.resources
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.csproj.GenerateResource.Cache
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.dll
+C:\source\OverheadDisplay\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.pdb
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\bin\Debug\Windows 8 Touch Joystick.dll
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\bin\Debug\Windows 8 Touch Joystick.pdb
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.csprojResolveAssemblyReference.cache
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\obj\Debug\Win8_TouchJoystick.Properties.Resources.resources
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\obj\Debug\Win8_TouchJoystick.Win8TouchJoystick.resources
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.csproj.GenerateResource.Cache
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.dll
+E:\Projects\source\Overhead Display\Tests\Windows 8 Touch Joystick\obj\Debug\Windows 8 Touch Joystick.pdb

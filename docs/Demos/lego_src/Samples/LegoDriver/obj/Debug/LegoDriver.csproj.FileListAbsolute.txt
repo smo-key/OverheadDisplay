@@ -1,0 +1,15 @@
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\LegoDriver.exe
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\LegoDriver.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\AForge.Controls.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\AForge.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\bin\Debug\AForge.Video.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.MainForm.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.ManipulatorControl.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.Properties.Resources.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.TurnControl.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.csproj.GenerateResource.Cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.exe
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\LegoDriver\obj\Debug\LegoDriver.pdb

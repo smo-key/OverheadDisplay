@@ -1,0 +1,9 @@
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\bin\Debug\NXTTest.exe
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\bin\Debug\NXTTest.pdb
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\obj\Debug\NXTTest.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\obj\Debug\NXTTest.MainForm.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\obj\Debug\NXTTest.Properties.Resources.resources
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\obj\Debug\NXTTest.csproj.GenerateResource.Cache
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\obj\Debug\NXTTest.exe
+C:\Users\Arthur\Dropbox\Projects\OverheadDisplay\docs\Demos\lego_src\Samples\NXTTest\obj\Debug\NXTTest.pdb

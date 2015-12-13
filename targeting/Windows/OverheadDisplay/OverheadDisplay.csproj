@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6E03384B-5208-4F1D-B80B-5846D758E816}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OverheadDisplay</RootNamespace>
+    <AssemblyName>OverheadDisplay</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>OverheadDisplay.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Assets\BlocksLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Two-Sided Keyboard Joystick">
+      <HintPath>..\..\..\Overheads\Joysticks\Two-Sided Keyboard Joystick\obj\Debug\Two-Sided Keyboard Joystick.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\PreLoad-Error.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assets\PreLoad-Error.Designer.cs">
+      <DependentUpon>PreLoad-Error.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Design.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Design.Designer.cs">
+      <DependentUpon>Design.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Startup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Startup.Designer.cs">
+      <DependentUpon>Startup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Assets\PreLoad-Error.resx">
+      <DependentUpon>PreLoad-Error.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Design.resx">
+      <DependentUpon>Design.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Main\Startup.resx">
+      <DependentUpon>Startup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Assets\app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASCube_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_Closed_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_Open_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_005_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewFile_6276.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candidates\RegistryEditor_5838.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\BlocksLogo.ico" />
+    <None Include="Resources\Warning_yellow_7231_31x32.png" />
+    <None Include="Resources\StatusAnnotations_Help_and_inconclusive_32xLG_color.png" />
+    <None Include="Resources\StatusAnnotations_Help_and_inconclusive_16xLG_color.png" />
+    <None Include="Resources\WorkItem_32xLG.png" />
+    <None Include="Resources\WorkItem_16xLG.png" />
+    <None Include="Resources\Symbols_Play_32xLG.png" />
+    <None Include="Resources\StatusAnnotations_Play_32xLG_color.png" />
+    <None Include="Resources\Event_594_exp.png" />
+    <None Include="Resources\globe_16xLG.png" />
+    <None Include="Resources\globe_32xLG.png" />
+    <None Include="Resources\folder_Open_32xLG.png" />
+    <None Include="Resources\gear_16xLG.png" />
+    <None Include="Resources\error_red_32x32.png" />
+    <None Include="Resources\Information_6227_32x.png" />
+    <Content Include="Resources\Joystick_LR.gif" />
+    <None Include="Resources\build_Solution_16xLG.png" />
+    <None Include="Resources\StatusAnnotations_Stop_16xLG_color.png" />
+    <None Include="Resources\StatusAnnotations_Play_16xLG_color.png" />
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OverheadDisplayDLL\OverheadDisplayDLL.csproj">
+      <Project>{9d576778-11b5-4b57-893c-648d6e51ac29}</Project>
+      <Name>OverheadDisplayDLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
